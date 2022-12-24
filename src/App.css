@@ -26,7 +26,9 @@
 .card{
   font-family: inherit;
   margin: auto;
-  border-radius: 100px
+  border-radius: 20px;
+  background-image: linear-gradient(to right, #51c1f8, #30a3e5, #1285cf, #0067b8, #0a4a9f);
+
 }
 
 .footer{
